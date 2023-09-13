@@ -150,7 +150,7 @@ export default {
 
 		favorites() {
 			if (!this.store) return []
-			const favorites = this.store.getFavorites('mastery')
+			const favorites = this.store.getFavorites('weapons')
 			return this.weapons.filter((weapon) => favorites.includes(weapon.name))
 		},
 
