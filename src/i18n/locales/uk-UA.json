@@ -46,14 +46,15 @@
 		"toggle_favorites": "Переключити вибрані",
 		"toggle_layout": "Переключити вигляд"
 	},
-	"locales": {
-		"en-US": "English",
-		"sv-SE": "Svenska",
-		"es-CO": "Español",
-		"de-DE": "Deutsch",
-		"fr-FR": "Français",
-		"uk-UA": "Українська"
-	},
+  "locales": {
+    "en-US": "English",
+    "pt-BR": "Português",
+    "sv-SE": "Svenska",
+    "es-CO": "Español",
+    "de-DE": "Deutsch",
+    "fr-FR": "Français",
+    "uk-UA": "Українська"
+  },
 	"pages": {
 		"404": {
 			"description": "Дідько, схоже ви звернули не туди і опинилися на неіснуючій сторінці. 🤔",

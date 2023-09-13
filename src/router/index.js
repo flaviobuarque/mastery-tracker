@@ -12,8 +12,8 @@ const router = new VueRouter({
 	routes: [
 		{
 			path: '/',
-			name: 'home',
-			component: HomeView,
+			name: 'mastery',
+      component: () => import('../views/MasteryView.vue'),
 		},
 		{
 			path: '*',

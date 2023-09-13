@@ -46,14 +46,15 @@
 		"toggle_favorites": "Mostrar favoritos",
 		"toggle_layout": "Cambiar layout"
 	},
-	"locales": {
-		"en-US": "English",
-		"sv-SE": "Svenska",
-		"es-CO": "Español",
-		"de-DE": "Deutsch",
-		"fr-FR": "Français",
+  "locales": {
+    "en-US": "English",
+    "pt-BR": "Português",
+    "sv-SE": "Svenska",
+    "es-CO": "Español",
+    "de-DE": "Deutsch",
+    "fr-FR": "Français",
     "uk-UA": "Українська"
-	},
+  },
 	"pages": {
 		"404": {
 			"description": "Uh oh, looks like you took a wrong turn and ended up on a missing page. 🤔",

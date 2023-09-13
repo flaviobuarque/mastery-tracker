@@ -46,14 +46,15 @@
 		"toggle_favorites": "Favoriten an/aus",
 		"toggle_layout": "Layout wechseln"
 	},
-	"locales": {
-		"en-US": "English",
-		"sv-SE": "Svenska",
-		"es-CO": "Español",
-		"de-DE": "Deutsch",
-		"fr-FR": "Français",
+  "locales": {
+    "en-US": "English",
+    "pt-BR": "Português",
+    "sv-SE": "Svenska",
+    "es-CO": "Español",
+    "de-DE": "Deutsch",
+    "fr-FR": "Français",
     "uk-UA": "Українська"
-	},
+  },
 	"pages": {
 		"404": {
 			"description": "Du wolltest wohl auf eine Seite, die gar nicht existiert. 🤔",

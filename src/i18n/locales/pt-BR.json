@@ -2,10 +2,10 @@
 	"general": {
 		"about": "About",
 		"add_to": "Add to",
-		"all": "All",
+		"all": "Todos",
 		"calling_cards": "Calling Card | Calling Cards",
 		"camouflage": "Camouflage | Camouflages",
-		"category": "Category | Categories",
+		"category": "Categoria | Categorias",
 		"change_language": "Change language",
 		"close": "Close",
 		"coming_soon": "Coming soon",
@@ -36,25 +36,25 @@
 		"unlocked": "unlocked"
 	},
 	"filters": {
-		"hide_completed": "Hide completed",
+		"hide_completed": "Ocultar completados",
 		"hide_dlc": "Hide DLC",
-		"hide_gold": "Hide Gold",
-		"hide_orion": "Hide Orion",
-		"hide_platinum": "Hide Platinum",
-		"hide_polyatomic": "Hide Polyatomic",
+		"hide_gold": "Ocultar Gold",
+		"hide_orion": "Ocultar Orion",
+		"hide_platinum": "Ocultar Platinum",
+		"hide_polyatomic": "Ocultar Polyatomic",
 		"toggle_favorite": "{state} favorites",
 		"toggle_favorites": "Toggle favorites",
 		"toggle_layout": "Toggle layout"
 	},
-  "locales": {
-    "en-US": "English",
+	"locales": {
+		"en-US": "English",
     "pt-BR": "Português",
-    "sv-SE": "Svenska",
-    "es-CO": "Español",
-    "de-DE": "Deutsch",
-    "fr-FR": "Français",
-    "uk-UA": "Українська"
-  },
+		"sv-SE": "Svenska",
+		"es-CO": "Español",
+		"de-DE": "Deutsch",
+		"fr-FR": "Français",
+		"uk-UA": "Українська"
+	},
 	"pages": {
 		"404": {
 			"description": "Dang, looks like you took a wrong turn and ended up on a missing page. 🤔",

@@ -20,8 +20,6 @@
 				</div>
 			</template>
 		</notifications>
-
-		<FooterComponent />
 	</div>
 </template>
 

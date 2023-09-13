@@ -4,16 +4,19 @@ import esCO from './locales/es-CO.json'
 import deDE from './locales/de-DE.json'
 import frFR from './locales/fr-FR.json'
 import ukUA from './locales/uk-UA.json'
+import ptBR from './locales/pt-BR.json'
 
 export const translatedBy = {
 	'es-CO': { github: 'https://github.com/Whoandozco' },
 	'de-DE': { github: 'https://github.com/timonkobusch', name: 'Timon Kobusch' },
 	'fr-FR': { github: 'https://github.com/BenDevFr', name: 'BenDevFr' },
 	'uk-UA': { github: 'https://github.com/christianopaets', name: 'Damkara' },
+  'pt-BR': { github: 'https://github.com/flaviobuarque', name: 'Flavio Buarque'}
 }
 
 export default {
 	'en-US': enUS,
+  'pt-BR': ptBR,
 	'sv-SE': svSE,
 	'es-CO': esCO,
 	'de-DE': deDE,

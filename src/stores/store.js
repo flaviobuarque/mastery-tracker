@@ -80,10 +80,11 @@ export const useStore = defineStore({
 			}
 		},
 
-		setFavorites({ camouflages, weapons, callingCards }) {
+		setFavorites({ camouflages, weapons, callingCards, mastery }) {
 			this.favorites.camouflages = camouflages || []
 			this.favorites.weapons = weapons || []
 			this.favorites.callingCards = callingCards || []
+      this.favorites.mastery = mastery || []
 		},
 
 		setFilters(filters) {

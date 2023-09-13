@@ -46,14 +46,15 @@
 		"toggle_favorites": "Växla favoriter",
 		"toggle_layout": "Växla layout"
 	},
-	"locales": {
-		"en-US": "English",
-		"sv-SE": "Svenska",
-		"es-CO": "Español",
-		"de-DE": "Deutsch",
-		"fr-FR": "Français",
+  "locales": {
+    "en-US": "English",
+    "pt-BR": "Português",
+    "sv-SE": "Svenska",
+    "es-CO": "Español",
+    "de-DE": "Deutsch",
+    "fr-FR": "Français",
     "uk-UA": "Українська"
-	},
+  },
 	"pages": {
 		"404": {
 			"description": "Hoppsan, det ser ut som att du tog fel sväng och hamnade på en saknad sida. 🤔",

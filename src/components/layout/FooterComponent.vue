@@ -10,9 +10,6 @@
 		</div>
 
 		<div>
-			<router-link to="/about">{{ $t('general.about') }}</router-link>
-			<router-link to="/requirements">{{ $tc('general.requirement') }}</router-link>
-			<a href="https://github.com/carlssonemil/orion">GitHub</a>
 			<LocaleSwitcherComponent />
 		</div>
 	</footer>

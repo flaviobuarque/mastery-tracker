@@ -46,14 +46,15 @@
 		"toggle_favorites": "Basculer favoris",
 		"toggle_layout": "Changer la disposition"
 	},
-	"locales": {
-		"en-US": "English",
-		"sv-SE": "Svenska",
-		"es-CO": "Español",
-		"de-DE": "Deutsch",
-		"fr-FR": "Français",
-		"uk-UA": "Українська"
-	},
+  "locales": {
+    "en-US": "English",
+    "pt-BR": "Português",
+    "sv-SE": "Svenska",
+    "es-CO": "Español",
+    "de-DE": "Deutsch",
+    "fr-FR": "Français",
+    "uk-UA": "Українська"
+  },
 	"pages": {
 		"404": {
 			"description": "La page que vous recherchez n'existe pas ou a été déplacée.🤔",
